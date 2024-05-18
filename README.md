@@ -1,4 +1,1 @@
-Download Files
-Download Node.JS
-Open cmd prompt, and type "npm i"
-Launch "start.bat"
+Steps: Download Files, download Node.JS, open cmd prompt in directory of files & type "npm i", launch "start.bat"
